@@ -1,0 +1,44 @@
+
+
+main{
+    background:white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*display:inline-block;  /* Try block and inline-block */
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;   
+    font-size:medium; 
+    display:inline;
+}
+header{
+    background-color: rgb(209, 241, 231);
+}
+nav{
+    /*font-size: 40px;*/
+    
+    background-color: rgb(251, 251, 237);
+}
+p{
+    display:block-inline;
+    line-height: 200%;
+    text-align:left;
+    width:50%;
+    overflow: auto;
+}
+footer{
+    background-color: rgb(227, 217, 236);
+}
+li{
+    display:inline-block;
+    width:20%;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(90, 90, 163);
+}
+img{
+    display:inline-block;
+    text-align: center;
+}
